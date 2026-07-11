@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
