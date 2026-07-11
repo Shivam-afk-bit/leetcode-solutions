@@ -11,7 +11,7 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
         if(head == null){
-            return false;
+            return true;
         }
         ListNode newHead = null;
         ListNode tail = null;
