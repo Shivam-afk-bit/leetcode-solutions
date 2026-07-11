@@ -28,6 +28,7 @@ class Solution {
 
         if(fast != null){
             current = slow.next;
+            slow.next = null;
         }else{
 
             current = slow;
