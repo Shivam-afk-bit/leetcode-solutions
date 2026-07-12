@@ -29,8 +29,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0620-not-boring-movies) |
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
