@@ -15,59 +15,43 @@ class Solution {
             return head;
         }
 
-        ListNode beforeLeft;
-        ListNode afterRight;
-        ListNode left1;
-        ListNode right1;
+        ListNode last;
+        ListNode newEnd;
 
-        ListNode temp = head;
-        int count = 1;
 
-        // Keep original dummy
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
+        ListNode prev = null;
+        ListNode current = head;
 
-        ListNode dummyNode = dummy;
-
-        // Find beforeLeft and left1
-        while (count != left) {
-            dummyNode = dummyNode.next;
-            temp = temp.next;
-            count++;
+        for(int i=0; current!= null && i < left -1; i++){
+            prev = current;
+            current = current.next;
         }
 
-        beforeLeft = dummyNode;
-        left1 = temp;
+        last = prev;
+        newEnd = current;
 
-        // Find right1
-        while (count != right) {
-            temp = temp.next;
-            count++;
-        }
 
-        right1 = temp;
-        afterRight = temp.next;
+        // reverse between left nd right
+        ListNode next = current.next;
+        for(int i=0; current!= null && i < right-left + 1; i++){
+           current.next = prev;
+           prev = current;
+           current = next;
 
-        // Detach
-        beforeLeft.next = null;
-        right1.next = null;
-
-        // Reverse detached list
-        ListNode current = left1;
-        ListNode prev = left1;
-        ListNode next = left1.next;
-        prev.next = null;
-        while (next != null) {
-            current = next;
+           if(next != null){
             next = next.next;
-            current.next = prev;
-            prev =  current;
+           }
         }
 
-        // Reconnect
-        beforeLeft.next = prev;
-        left1.next = afterRight;
+        if(last != null){
+            last.next = prev;
+        }else{
+            head = prev;
+        }
 
-        return dummy.next;
+        newEnd.next = current;
+
+        return head;
     }
+
 }
