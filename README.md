@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
