@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1211-queries-quality-and-percentage](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1729-find-followers-count](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1729-find-followers-count) |
 ## Array
