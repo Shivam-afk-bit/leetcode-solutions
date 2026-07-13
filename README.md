@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0620-not-boring-movies) |
+| [1211-queries-quality-and-percentage](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 ## Array
 |  |
 | ------- |
