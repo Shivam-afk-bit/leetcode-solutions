@@ -10,7 +10,7 @@ class MyQueue {
     }
     
     public void push(int x) {
-        first.add(x);
+        first.push(x);
     }
     
     public int pop() {
@@ -45,7 +45,7 @@ class MyQueue {
     
     public boolean empty() {
 
-       return first.empty() && second.empty();
+       return first.empty();
         
     }
 }
