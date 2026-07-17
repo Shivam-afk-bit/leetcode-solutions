@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
