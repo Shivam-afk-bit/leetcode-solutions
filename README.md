@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0143-reorder-list) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
