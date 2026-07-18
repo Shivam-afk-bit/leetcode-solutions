@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
