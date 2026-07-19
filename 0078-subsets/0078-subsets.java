@@ -9,22 +9,23 @@ class Solution {
        return ans;
     }
 
-    List<List<Integer>> ans = new ArrayList<>();
- 
-    public void helper(int[] nums, int index, ArrayList<Integer> current){
-        
+   List<List<Integer>> ans = new ArrayList<>();
+
+public void helper(int[] nums, int index, ArrayList<Integer> current) {
+
     if (index == nums.length) {
-        ans.add(current);
+        ans.add(new ArrayList<>(current)); // Store a copy
         return;
     }
 
-    
-    ArrayList<Integer> take = new ArrayList<>(current);
-    take.add(nums[index]);
-    helper(nums, index + 1, take);
+    // Take
+    current.add(nums[index]);
+    helper(nums, index + 1, current);
 
- 
-    ArrayList<Integer> dontTake = new ArrayList<>(current);
-    helper(nums, index + 1, dontTake);
-    }
+    // Backtrack
+    current.remove(current.size() - 1);
+
+    // Don't Take
+    helper(nums, index + 1, current);
+ }
 }
