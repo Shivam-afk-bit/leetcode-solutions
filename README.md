@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Database
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
