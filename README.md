@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
