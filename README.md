@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -188,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
