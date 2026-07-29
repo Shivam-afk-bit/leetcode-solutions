@@ -83,7 +83,7 @@ class Solution {
         if(node == null){
             return false;
         }
-        if((node.left == node1 && node.right == node2) || (node.left == node2 && node.right == node1)){
+        if((node.left == node1 || node.right == node1) && (node.left == node2 || node.right == node2)){
             return true;
         }
 
