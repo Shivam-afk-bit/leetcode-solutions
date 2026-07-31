@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0169-majority-element) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
 |  |
