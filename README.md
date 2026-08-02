@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
