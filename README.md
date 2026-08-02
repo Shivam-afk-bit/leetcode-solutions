@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Game Theory
 |  |
 | ------- |
