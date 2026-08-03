@@ -4,48 +4,60 @@ class Solution {
         
         int i = 0;
         int j = 0;
-        int k = 0;
+        int count = 0;
+        int prev = 0;
+        int current = 0;
+        int n = ((nums1.length + nums2.length)/2) + 1;
 
-        while(i < nums1.length && j < nums2.length){
+        while(count != n && i < nums1.length && j < nums2.length ){
             if(nums1[i] <= nums2[j] ){
-                sort[k] = nums1[i];
-                k++;
+                prev = current;
+                current = nums1[i];
+                count++;
                 i++;
                 continue;
             }
 
             if(nums1[i] > nums2[j]){
-                sort[k] = nums2[j];
-                k++;
+                prev = current;
+                current = nums2[j];
+                count++;
                 j++;
 
             }
         }
-        if(j == nums2.length){
-            while(i < nums1.length ){
-                sort[k] = nums1[i];
-                i++;
-                k++;
-            }
-        }else{
-            while(j < nums2.length ){
-                sort[k] = nums2[j];
-                j++;
-                k++;
-            }
 
+        if( j == nums2.length && count != n){
+            while(count != n){
+            prev = current;
+            current = nums1[i];
+            i++;
+            count++;
+
+            }
+            
+        }else if( i == nums1.length && count != n){
+           while(count != n){
+             prev = current;
+            current = nums2[j];
+            j++;
+            count++;
+           }
         }
-
 
         double median = 0;
 
-        if(sort.length % 2 == 0){
-            int n = sort.length/2;
-            median = (sort[n] + sort[n-1])/2.0;
+        if((nums1.length + nums2.length)%2 == 0){
+                median = (prev + current)/2.0;
         }else{
-            int z = sort.length/2;
-            median = sort[z];
+            median = current;
+
         }
+
+
+        
+
+        
 
         return median;
   
