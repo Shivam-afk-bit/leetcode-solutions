@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0877-stone-game) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0342-power-of-four) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
