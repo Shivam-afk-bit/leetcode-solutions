@@ -10,7 +10,7 @@ class Solution {
             return false;
         }
 
-        curr = Math.pow(2 , p);
+        curr = curr * 2;
         return helper(n , p+1 , curr);
     }
 }
