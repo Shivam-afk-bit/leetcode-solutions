@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
