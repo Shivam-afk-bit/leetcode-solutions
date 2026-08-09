@@ -34,13 +34,10 @@ class Solution {
             }
         }
 
-        if(oddTemp.next == null){
+       
             oddTemp.next = headEven;
             return headOdd;
-        }else{
-            evenTemp.next = headOdd;
-            return headEven;
-        }
+       
 
     
 
