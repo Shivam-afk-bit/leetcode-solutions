@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
