@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Tree
 |  |
 | ------- |
