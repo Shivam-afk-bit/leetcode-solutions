@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Counting Sort
 |  |
 | ------- |
