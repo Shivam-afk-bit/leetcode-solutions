@@ -14,7 +14,7 @@ class Solution {
             }
         }
 
-        for(int k=count; k < nums.length; k++){
+        for(int k=i; k < nums.length; k++){
             nums[k] = 0;
         }
 
