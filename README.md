@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivam-afk-bit/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
